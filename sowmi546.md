@@ -1,0 +1,3 @@
+RED
+APPLE
+INDIA
