@@ -1,3 +1,6 @@
+Hi practice test done 
+
+
 Hello!
 Here is my practice challenge for you:
 
@@ -9,11 +12,11 @@ Here is my practice challenge for you:
 
 4. edit the file to list:
 
-  your favourite colour
+  your favourite colour green
   
-  your favourite fruit
+  your favourite fruit apple  
   
-  your home country
+  your home country India
 
 5. commit the changes to your fork on on github
 
